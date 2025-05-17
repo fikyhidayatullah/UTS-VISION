@@ -1,4 +1,4 @@
-## Biodata
+## BIODATA
 Nama : Fiky Hidayatullah
 
 Kelas : Robotika Malam Semester6
@@ -13,7 +13,7 @@ Universitas : Politeknik Negeri Batam
 
 
 
-## Installation
+## INSTALLATION
 ```bash
 pip install numpy pandas matplotlib scikit-learn scikit-image
 
